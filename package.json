@@ -1,0 +1,30 @@
+{
+  "name": "image-uploader",
+  "version": "1.0.0",
+  "description": "Utility class to upload images to custom backend service",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Airbus6804/Image-Uploader.git"
+  },
+  "keywords": [
+    "Image",
+    "Upload"
+  ],
+  "author": "Airbus6804",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.3"
+  },
+  "bugs": {
+    "url": "https://github.com/Airbus6804/Image-Uploader/issues"
+  },
+  "homepage": "https://github.com/Airbus6804/Image-Uploader#readme"
+}
