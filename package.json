@@ -1,6 +1,6 @@
 {
-  "name": "@airbus6804/image-uploader",
-  "version": "1.0.0",
+  "name": "airbus6804-image-uploader",
+  "version": "0.0.1",
   "description": "Utility class to upload images to custom backend service",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
